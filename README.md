@@ -1,4 +1,4 @@
-![MasterHead](https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*IRGB-4OAoO8KSqH_huDPFw.gif)
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hi 👋, I'm Milos</h1>
 <h3 align="center">A passionate programmer from Serbia</h3>
