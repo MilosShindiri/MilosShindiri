@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=milospetrovic-programmer&label=Profile%20views&color=0e75b6&style=flat" alt="milospetrovic-programmer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=milosshindiri&label=Profile%20views&color=0e75b6&style=flat" alt="milospetrovic-programmer" /> </p>
 
 - 🔭 I’m currently working on...
 
