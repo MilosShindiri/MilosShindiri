@@ -39,4 +39,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milosshindiri&show_icons=true&locale=en" alt="milospetrovic-programmer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milosshindiri&" alt="milospetrovic-programmer" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=milosshindiri&" alt="milospetrovic-programmer" /></p>
